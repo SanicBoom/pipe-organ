@@ -69,5 +69,133 @@
     "quiet_pedal_5_pedalquiet_fs1_rr1": "quiet-pedal/NT5_PedalQuiet_F#1_rr1.wav",
     "quiet_pedal_5_pedalquiet_fs2_rr1": "quiet-pedal/NT5_PedalQuiet_F#2_rr1.wav",
     "quiet_pedal_5_pedalquiet_fs3_rr1": "quiet-pedal/NT5_PedalQuiet_F#3_rr1.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "C1",
+      "sample": "loud_man3open_c1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#1",
+      "sample": "loud_man3open_ds1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#1",
+      "sample": "loud_man3open_fs1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A1",
+      "sample": "loud_man3open_a1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C2",
+      "sample": "loud_man3open_c2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#2",
+      "sample": "loud_man3open_ds2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#2",
+      "sample": "loud_man3open_fs2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "loud_man3open_a2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C3",
+      "sample": "loud_man3open_c3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#3",
+      "sample": "loud_man3open_ds3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "loud_man3open_fs3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "loud_man3open_a3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "loud_man3open_c4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#4",
+      "sample": "loud_man3open_ds4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "loud_man3open_fs4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A4",
+      "sample": "loud_man3open_a4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "loud_man3open_c5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#5",
+      "sample": "loud_man3open_ds5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "loud_man3open_fs5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A5",
+      "sample": "loud_man3open_a5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "loud_man3open_c6",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
